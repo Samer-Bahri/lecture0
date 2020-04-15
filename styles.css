@@ -14,4 +14,7 @@ div {
   height: 400px;
   margin: 50px;
   padding: 20px;
+  font-family: Impact, Tahoma, sans-serif;
+  font-size: 50px;
+  font-weight: bold;
 }

@@ -17,4 +17,5 @@ div {
   font-family: Impact, Tahoma, sans-serif;
   font-size: 50px;
   font-weight: bold;
+  border: 9px solid pink;
 }

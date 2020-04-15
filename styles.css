@@ -7,3 +7,9 @@ p1 {
   color: green;
   text-align: left;
 }
+
+div {
+  background-color: yellow;
+  width: 100px;
+  height: 400px;
+}
